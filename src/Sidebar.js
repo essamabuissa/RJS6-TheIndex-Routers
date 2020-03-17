@@ -11,6 +11,9 @@ const Sidebar = () => {
       <section>
         <h4 className="menu-item">
           <NavLink to="/authors">AUTHORS</NavLink>
+          <br></br>
+          <NavLink to="/books">Books</NavLink>
+
         </h4>
       </section>
     </div>
